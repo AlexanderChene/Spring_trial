@@ -1,4 +1,4 @@
- # Spring_trial
+# Spring_trial
 This is a Java Spring practise project
 
 1. File directory introduction
@@ -29,4 +29,8 @@ Come out the result
 
 b. student registration form:
 
-This one uses Spring MVC data binding. I created a student object with first name and last name. Then add the object to the model to set and get the field value.
+This one uses Spring MVC form tag. I created a student object with first name and last name. The use Spring MVC data binding to add the object to the model in order to get and set the objects' field
+
+![image](https://user-images.githubusercontent.com/30871262/43495755-e9361706-9507-11e8-83e2-02174307551a.png)
+
+![image](https://user-images.githubusercontent.com/30871262/43495795-0f686e06-9508-11e8-8f87-8d31f6780cfe.png)
