@@ -27,4 +27,6 @@ Enter name and the distance with unit you want to transfer
 Come out the result
 ![image](https://user-images.githubusercontent.com/30871262/43495265-057c66b6-9505-11e8-91a4-177cab2ec5bf.png)
 
+b. student registration form:
 
+This one uses Spring MVC data binding. I created a student object with first name and last name. Then add the object to the model to set and get the field value.
