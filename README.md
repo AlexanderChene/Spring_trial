@@ -1,7 +1,4 @@
-# Spring_trial
-This is a Java Spring practise project
-
-1. File directory introduction
+# File directory introduction
 
 ![image](https://user-images.githubusercontent.com/30871262/43494411-a53f55f0-9500-11e8-98c1-f1ceb52ca930.png)
 
@@ -14,7 +11,8 @@ In the view folder under web-inf folder contains the jsp files for web view.
 2. Project demo
 This is the project home page:
 
-![image](https://user-images.githubusercontent.com/30871262/43495176-8da016ec-9504-11e8-8ba1-fe0b8d996334.png)
+![image](https://user-images.githubusercontent.com/30871262/43791759-b8e0df90-9a44-11e8-9ba9-57340fa3b718.png)
+
 
 a. km to mile calculator
 
