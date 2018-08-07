@@ -1,5 +1,6 @@
 
 
+
 # # 1. File directory introduction
 
 ![image](https://user-images.githubusercontent.com/30871262/43494411-a53f55f0-9500-11e8-98c1-f1ceb52ca930.png)
@@ -39,3 +40,12 @@ Type in your Height and Weight
 
 After submit, your BMI report will come out:
 ![image](https://user-images.githubusercontent.com/30871262/43792387-7eaba61e-9a46-11e8-9b2d-7e838ab924ad.png)
+
+
+# Verification of the forms
+I use Java standard Validation API to add valid rules for Spring Framework
+
+For example, the weight and height only be numbers, the weight and height input must in a resonable range and the last name cannot be empty.
+
+
+![image](https://user-images.githubusercontent.com/30871262/43792627-450cf308-9a47-11e8-868d-d603f89bddf8.png)
