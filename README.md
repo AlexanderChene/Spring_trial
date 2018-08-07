@@ -1,4 +1,5 @@
 
+
 # # 1. File directory introduction
 
 ![image](https://user-images.githubusercontent.com/30871262/43494411-a53f55f0-9500-11e8-98c1-f1ceb52ca930.png)
@@ -18,6 +19,8 @@ Two applications: 1. km to mile calculator 2. BMI calculator
 
 # a. km to mile calculator
 
+This application can convert distance in mile to kilometer, vise versa. 
+
 ![image](https://user-images.githubusercontent.com/30871262/43495221-ca7bbfbc-9504-11e8-9500-1e51e85fc367.png)
 
 Enter name and the distance with unit you want to transfer
@@ -27,10 +30,12 @@ Enter name and the distance with unit you want to transfer
 Come out the result
 ![image](https://user-images.githubusercontent.com/30871262/43495265-057c66b6-9505-11e8-91a4-177cab2ec5bf.png)
 
-b. student registration form:
+# b. student BMI calculator:
 
-This one uses Spring MVC form tag. I created a student object with first name and last name. The use Spring MVC data binding to add the object to the model in order to get and set the objects' field
+This application help calculate your BMI value according to your height and weight.
 
-![image](https://user-images.githubusercontent.com/30871262/43495755-e9361706-9507-11e8-83e2-02174307551a.png)
+Type in your Height and Weight
+![image](https://user-images.githubusercontent.com/30871262/43792321-478529bc-9a46-11e8-96d1-90a4f3709490.png)
 
-![image](https://user-images.githubusercontent.com/30871262/43495795-0f686e06-9508-11e8-8f87-8d31f6780cfe.png)
+After submit, your BMI report will come out:
+![image](https://user-images.githubusercontent.com/30871262/43792387-7eaba61e-9a46-11e8-9b2d-7e838ab924ad.png)
