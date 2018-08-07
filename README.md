@@ -1,4 +1,5 @@
-# File directory introduction
+
+# # 1. File directory introduction
 
 ![image](https://user-images.githubusercontent.com/30871262/43494411-a53f55f0-9500-11e8-98c1-f1ceb52ca930.png)
 
@@ -8,13 +9,14 @@ In the web-inf folder, the two xml file are used to 1.	Configure Spring Dispatch
 
 In the view folder under web-inf folder contains the jsp files for web view.
 
-2. Project demo
+# # 2. Project demo
 This is the project home page:
 
-![image](https://user-images.githubusercontent.com/30871262/43791759-b8e0df90-9a44-11e8-9ba9-57340fa3b718.png)
+![image](https://user-images.githubusercontent.com/30871262/43791941-334c3d42-9a45-11e8-9987-6570bf57d865.png)
 
+Two applications: 1. km to mile calculator 2. BMI calculator
 
-a. km to mile calculator
+# a. km to mile calculator
 
 ![image](https://user-images.githubusercontent.com/30871262/43495221-ca7bbfbc-9504-11e8-9500-1e51e85fc367.png)
 
