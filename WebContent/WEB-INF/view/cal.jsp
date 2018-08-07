@@ -25,6 +25,9 @@ Hi, ${param.user }<br>
 
 
 ${message }
+<br><br><br>
+
+<a href = "">Back To Main Menu</a>
 
 </body>
 </html>

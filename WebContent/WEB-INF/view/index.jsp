@@ -12,8 +12,8 @@
 
 	<a href = "cal">mile to km converter</a>
 	
-	<br>
+	<br><br>
 	
-	<a href = "student/registerForm">Student Registration Form</a>
+	<a href = "registerForm">BMI calculator</a>
 </body>
 </html>
